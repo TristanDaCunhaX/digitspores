@@ -1,13 +1,17 @@
-# CryptoSpores
+# cryptospores
 September 2021
 
 by Tristan Da Cunha
+
+## Usage info
+
+This script was written and can be run using **Drawbot**. To learn more visit: <https://github.com/typemytype/drawbot>
 
 ---
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This work is licensed under a
+The artworks generated with this script are licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
