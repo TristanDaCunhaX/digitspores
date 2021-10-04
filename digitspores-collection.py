@@ -1,5 +1,5 @@
 ################
-# CRYPTOSPORES #
+# DIGITSPORES #
 ################
 # by Tristan Da Cunha
 # https://github.com/TristanDaCunhaX
@@ -407,7 +407,7 @@ for fileNumber in range(totalFiles):
         
     # now = datetime.now()
     
-    saveImage(f'export/cryptospore-{fileNumber:0>4}.mp4')
+    saveImage(f'export/digitspore-{fileNumber:0>4}.mp4')
     
     # Write metadata to .txt file
     with open('export/cryptospores-metadata.txt', mode='a', encoding='utf-8') as txtFile:
