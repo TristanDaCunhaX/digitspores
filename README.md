@@ -5,7 +5,7 @@ by Tristan Da Cunha
 
 ## Info
 
-This script generates a wide array of unique geometric digital entities. They float, they flip, they swing, in a perfect harmonic dance which is both mathemathic and natural. One may wonder if they're some new form of existence which can arise once we overcome the distinction between technology and biology.
+This script generates a wide array of unique geometric digital entities, the Digitspores. They float, they flip, they swing, in a perfect harmonic dance which is both mathemathical and natural. One may wonder if they're some new form of existence which can arise once we overcome the distinction between technology and biology.
 
 ## Digitspores as NFTs
 
