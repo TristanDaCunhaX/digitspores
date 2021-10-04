@@ -1,9 +1,13 @@
-# cryptospores
+# Digitspores
 September 2021
 
 by Tristan Da Cunha
 
-## Usage info
+## Info
+
+This script generates a wide array of geometric digital entities. They float, they flip, they swing, in a perfect harmonic dance which is both mathemathic and natural. One may wonder if they're some new form of existence which can arise once we overcome the distinction between technology and biology.
+
+## Usage
 
 This script was written and can be run using **Drawbot**. To learn more visit: <https://github.com/typemytype/drawbot>
 
